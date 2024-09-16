@@ -1,3 +1,6 @@
+!!!announcment!!!
+most of this game needs to he reformatted for gpt chsnges since its creation!!!
+
 # Table of Contents
 
 1. [Introduction](#chatgpt-rpg-an-interactive-text-based-adventure)
