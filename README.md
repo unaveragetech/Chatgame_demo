@@ -98,7 +98,8 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 ![A scenic overview of the countryside with a carriage and gracious hills](https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2023/05/QooApp_Project-ME_-0.jpeg?resize=900%2C394&ssl=1)
 
 [🔗 **ChatGPT RPG Demo**](gamemaster.txt)
-
+-give this prompt to your fav ai 
+maybe meta(llama3.2) or gpt (4o_mini)
 ---
 
 ## Game Overview & Mechanics
